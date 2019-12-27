@@ -32,6 +32,7 @@ This project uses python(Anaconda), Jupyter Notebook, Any web browser(preferably
 ├── tweet_json.txt---------# TWITTER DATA COLLECTED USING TWEEPY API
 ├── twitter_archive_master.csv---------# MASTER DATA FILE WITH ALL ORIGINAL DATA 
 ├── twitter-archive-enhanced.csv---------# DATA FILE CREATED AFTER DATA WRANGLING
+├── image-predictions.tsv---------# THIS IS A TSV FILE TO COMPARE THE IMAGES OF THE DOGS TO PREDICT THE BREED OF THE DOG 
  *Also includes other supporting files 
 
 </pre>
