@@ -11,7 +11,7 @@
 
 ## Introduction
 
-This data set contains the rating of dogs collected from the tweets from the page WeRateDogs(@dog_rates). We are attempting to to remove the messy and untidy issues with the data set and then trying to analyse the data to understand the importance of clean data and how it affects are analysis.
+This data set contains the rating of dogs collected from the tweets from the page WeRateDogs(@dog_rates). We are attempting to remove the messy and untidy issues with the data set and then trying to analyse the data to understand the importance of clean data and how it affects are analysis.
 
 
 <a id="sr"></a>
